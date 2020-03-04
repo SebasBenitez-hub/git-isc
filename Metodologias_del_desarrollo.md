@@ -35,7 +35,7 @@ Son aquellas que permiten adaptar la forma de trabajo a las condiciones del proy
 
     Esta metodología permite abordar proyectos complejos que exigen una flexibilidad y una rapidez esencial a la hora de ejecutar los resultados.
 
-    ![Scrum](/Users/sebasb/Desktop/git-isc/assets/Scrum.png)
+    ![Scrum](https://lorbada.com/wp-content/uploads/2017/02/extreme-programing.png)
 
 2. **XP**
 
@@ -48,7 +48,7 @@ Son aquellas que permiten adaptar la forma de trabajo a las condiciones del proy
     - Codificación, donde los programadores trabajan en pareja para obtener resultados más eficientes y de calidad
     - Pruebas para comprobar que funcionan los códigos que se van implementando
 
-    ![XP](https://dc722jrlp2zu8.cloudfront.net/media/cache/85/0c/850cb644b17764e92f00028a9073e3b3.webp)
+    ![XP](https://ingsotfwarekarlacevallos.files.wordpress.com/2015/05/marcoxp.jpg)
 
 ## Fuente
 
