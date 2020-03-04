@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 #Metodologias de desarrollo
+=======
+##Metodologias de desarrollo
+>>>>>>> master
 
 La metodología de desarrollo consiste principalmente en hacer uso de diversas herramientas, técnicas, métodos y modelos para el desarollo.
 
